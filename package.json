@@ -1,0 +1,22 @@
+{
+  "name": "experiment-backend",
+  "version": "1.0.0",
+  "description": "tiny backend for experiment",
+  "main": "index.js",
+  "scripts": {},
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmnvanderberg/experiment-backend.git"
+  },
+  "author": "Timon van der Berg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmnvanderberg/experiment-backend/issues"
+  },
+  "homepage": "https://github.com/tmnvanderberg/experiment-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  }
+}
